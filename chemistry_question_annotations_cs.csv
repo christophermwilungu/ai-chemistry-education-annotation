@@ -1,0 +1,44 @@
+# Chemistry Questions AI Dataset
+
+## Project Overview
+
+This project demonstrates the creation and organization of a structured chemistry question-and-answer dataset for AI training and educational applications.
+
+## Dataset Contents
+
+The dataset contains chemistry questions with:
+
+- Questions
+- Answers
+- Chemistry topics
+- Difficulty levels
+
+## Main Topics
+
+The initial dataset focuses on Organic Chemistry, including:
+
+- Carbonyl compounds
+- Keto-enol tautomerism
+- Aldehydes and ketones
+- Claisen rearrangement
+
+## Purpose
+
+The dataset can be used as a foundation for:
+
+- AI training
+- Question-answering systems
+- Educational AI tools
+- Chemistry tutoring applications
+- Data annotation and quality evaluation
+
+## Skills Demonstrated
+
+This project demonstrates skills in:
+
+- Data annotation
+- Dataset structuring
+- Chemistry knowledge
+- AI training data preparation
+- Quality-focused labeling
+- GitHub project management
